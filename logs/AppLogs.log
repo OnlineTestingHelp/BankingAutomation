@@ -1,0 +1,72 @@
+[INFO ] 2022-05-10 08:49:39.915 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-10 08:49:45.316 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-10 08:49:57.358 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-12 08:35:35.688 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-12 08:35:40.749 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-12 08:35:53.691 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-12 08:47:47.734 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-12 08:47:53.031 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-12 08:48:05.446 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-12 08:52:13.210 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-12 08:52:20.027 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-12 08:52:31.737 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-12 08:54:32.660 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-12 08:54:37.968 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-12 08:54:49.966 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 00:43:47.199 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 00:43:51.235 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 00:44:01.936 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 00:49:31.898 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 00:49:35.766 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 00:49:46.601 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 00:50:48.180 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 00:50:51.969 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 00:51:20.292 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 00:53:08.599 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 00:53:11.925 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 00:53:22.677 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 00:55:44.826 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 00:55:48.279 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 00:55:58.665 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:01:56.447 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:01:59.713 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:02:09.957 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:05:52.643 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:05:56.775 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:06:07.244 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:08:36.616 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:08:39.977 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:08:50.674 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:10:21.042 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:10:24.480 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:10:34.537 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:16:45.330 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:17:08.029 [main] NewAccountCreation - User is not created
+[INFO ] 2022-05-13 01:17:14.713 [main] NewAccountCreation - Verify AccountNo and Balance are not matched
+[INFO ] 2022-05-13 01:18:09.341 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:18:13.012 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:18:23.359 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:20:04.924 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:20:08.314 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:20:19.018 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:21:27.262 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:21:30.552 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:21:40.551 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:29:49.733 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:29:53.103 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:30:08.360 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:34:04.562 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:34:08.738 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:34:18.804 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:36:03.106 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:36:06.707 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:36:13.849 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:40:55.310 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:40:58.674 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:41:05.868 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 01:46:32.402 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 01:46:35.872 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 01:46:43.269 [main] NewAccountCreation - Verify AccountNo and Balance are done
+[INFO ] 2022-05-13 07:40:18.802 [main] LoginPage - Entering the data in UserName
+[INFO ] 2022-05-13 07:40:25.315 [main] NewAccountCreation - New User is created successfully
+[INFO ] 2022-05-13 07:40:37.919 [main] NewAccountCreation - Verify AccountNo and Balance are done

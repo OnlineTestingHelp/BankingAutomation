@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-13T00:43:36 IST" name="Suite" finished-at="2022-05-13T00:44:02 IST" duration-ms="25783">
+    <groups>
+    </groups>
+    <test started-at="2022-05-13T00:43:36 IST" name="Chrome" finished-at="2022-05-13T00:44:02 IST" duration-ms="25783">
+      <class name="com.banking.tests.NewAccountCreation">
+        <test-method is-config="true" signature="initializeReport()[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:36 IST" name="initializeReport" finished-at="2022-05-13T00:43:36 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeReport -->
+        <test-method is-config="true" signature="invokingApplication(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:37 IST" name="invokingApplication" finished-at="2022-05-13T00:43:43 IST" duration-ms="6522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.banking.tests.NewAccountCreation.verify_User_Addition() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingApplication -->
+        <test-method signature="verify_User_Addition()[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:43 IST" name="verify_User_Addition" finished-at="2022-05-13T00:43:51 IST" duration-ms="7698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_User_Addition -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:51 IST" name="closeBrowser" finished-at="2022-05-13T00:43:52 IST" duration-ms="865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="invokingApplication(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:52 IST" name="invokingApplication" finished-at="2022-05-13T00:43:53 IST" duration-ms="1626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.banking.tests.NewAccountCreation.verifyCreateUserLogin() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingApplication -->
+        <test-method signature="verifyCreateUserLogin()[pri:1, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:43:53 IST" name="verifyCreateUserLogin" finished-at="2022-05-13T00:44:01 IST" duration-ms="8204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateUserLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:44:01 IST" name="closeBrowser" finished-at="2022-05-13T00:44:02 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.banking.tests.NewAccountCreation@55dfcc6]" started-at="2022-05-13T00:44:02 IST" name="closeReport" finished-at="2022-05-13T00:44:03 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.banking.tests.NewAccountCreation -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
